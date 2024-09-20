@@ -1,0 +1,5 @@
+data
+output
+model.pkl
+.DS_Store
+*/**/__pycache__
